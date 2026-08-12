@@ -19,8 +19,6 @@ keywords:
   control engineering,
   investment
 
-blog_name: Articles
-blog_description:
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -97,8 +95,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Articles
+blog_description:
 permalink: /articles/:year/:title/
 lsi: false # produce an index for related posts
 
