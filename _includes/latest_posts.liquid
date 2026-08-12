@@ -1,6 +1,7 @@
 <div class="news">
-  {% if page.latest_posts != blank %}
-    {% assign latest_posts_size = site.posts | size %}
+  {% assign latest_posts_size = site.posts | size %}
+
+  {% if latest_posts_size > 0 %}
     <div
       class="table-responsive"
       {% if page.latest_posts.scrollable and latest_posts_size > 3 %}
@@ -43,6 +44,6 @@
       </table>
     </div>
   {% else %}
-    <p>No posts so far...</p>
+    <p><em>Nothing here yet — I'm probably still overthinking the first post.</em></p>
   {% endif %}
 </div>
