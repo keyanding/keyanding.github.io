@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "books-the-godfather",
+        },{id: "post-when-ai-safety-evidence-stops-transferring",
+        
+          title: "When AI Safety Evidence Stops Transferring",
+        
+        description: "How configuration changes affect the validity of AI safety evidence, and what agent evaluation can learn from aviation assurance.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/articles/2026/when-ai-safety-evidence-stops-transferring/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
