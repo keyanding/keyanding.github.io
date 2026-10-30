@@ -12,11 +12,11 @@ Frontier Al evaluation is moving beyond the model in isolation. Today’s fronti
 
 For example, in aviation, a change in the system may disqualify the system for being safe enough to deploy. This is because aviation takes a stricter view of configuration changes. [SAE ARP4754A](https://saemobilus.sae.org/standards/arp4754a-guidelines-development-civil-aircraft-systems) provides guidance for developing civil aircraft and systems. Its configuration management objectives cover system and item requirements, as well as facilities, tools, and data whose configuration is essential to demonstrating development assurance (§5.6.1(b)(1), (3)).
 
-<p class="text-center my-4">“Technical and administrative control of the configuration of: ... (4) Facilities, tools, and any other data necessary to support the development and verification activities.”</p>
+<p class="text-center my-4" style="font-size: 1.15em; font-style: italic; line-height: 1.7;">“Technical and administrative control of the configuration of: ... (4) Facilities, tools, and any other data necessary to support the development and verification activities.”</p>
 
 It also calls for a **configuration baseline** when requirements compliance substantiation is first sought (§5.6.1), with baseline establishment and subsequent change control addressed in §5.6.2.3(a)–(b).
 
-<p class="text-center my-4">“A baseline should be established for Configuration Items used for requirements compliance substantiation.”</p>
+<p class="text-center my-4" style="font-size: 1.15em; font-style: italic; line-height: 1.7;">“A baseline should be established for Configuration Items used for requirements compliance substantiation.”</p>
 
 Once established, the baseline should be protected, and subject to change control procedures (§5.6.2.3(b)). This ties the **assurance evidence** used to substantiate compliance and safety to a controlled configuration.
 
