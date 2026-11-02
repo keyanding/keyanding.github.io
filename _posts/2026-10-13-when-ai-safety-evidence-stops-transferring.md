@@ -4,7 +4,7 @@ title: When AI Safety Evidence Stops Transferring
 date: 2026-10-13
 author: Keyan Ding
 description: How configuration changes affect the validity of AI safety evidence, and what agent evaluation can learn from aviation assurance.
-categories: ai-safety
+categories: AI
 related_posts: false
 ---
 
