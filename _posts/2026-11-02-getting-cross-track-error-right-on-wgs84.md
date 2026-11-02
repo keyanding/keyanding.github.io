@@ -5,7 +5,6 @@ date: 2026-11-02 08:00:00 +0800
 author: Keyan Ding
 description: A spherical estimate, a missing sign, and what 1,320 test cases taught me about turning geometry into code.
 categories: ["Engineering Notes"]
-tags: ["engineering notes"]
 related_posts: false
 _styles: |
   .geodesic-article .standfirst { font-size: 1.2rem; line-height: 1.6; color: var(--global-text-color-light); }
