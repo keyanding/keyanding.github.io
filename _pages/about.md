@@ -9,6 +9,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
+  caption: Persimmon slush in Kyoto, February 2026.
   more_info:
 
 selected_papers: false
