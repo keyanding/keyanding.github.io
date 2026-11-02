@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-when-ai-safety-evidence-stops-transferring",
+        },{id: "post-getting-cross-track-error-right-on-wgs-84",
+        
+          title: "Getting cross-track error right on WGS-84",
+        
+        description: "A spherical estimate, a missing sign, and what 1,320 test cases taught me about turning geometry into code.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/articles/2026/getting-cross-track-error-right-on-wgs84/";
+          
+        },
+      },{id: "post-when-ai-safety-evidence-stops-transferring",
         
           title: "When AI Safety Evidence Stops Transferring",
         

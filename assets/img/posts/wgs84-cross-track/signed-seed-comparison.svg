@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN' 'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg
+  width="1120"
+  height="440"
+  preserveAspectRatio="xMinYMin meet"
+  viewBox="0 0 1120 440"
+  xmlns="http://www.w3.org/2000/svg"
+  version="1.0"
+  fill-rule="evenodd"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <title>...</title>
+  <desc>...</desc>
+  <clipPath id="clip">
+    <rect x="0" y="0" width="1120" height="440" />
+  </clipPath>
+  <g id="group" transform="scale(1,-1) translate(0,-440)" style="clip-path: url(#clip)">
+    <g transform="">
+      <rect
+        x="0"
+        y="0"
+        width="1120"
+        height="440"
+        style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%, 100%, 100%); fill-rule: evenodd"
+      />
+      <text
+        x="30"
+        y="411"
+        style="font-family: Arial, Helvetica, sans-serif; font-weight: 700; font-size: 19px; fill: rgb(8%, 16%, 22%); stroke: none"
+        transform="translate(0,822) scale(1,-1)"
+      >
+        One missing sign moves the projection to the other side of the start
+      </text>
+      <text
+        x="30"
+        y="387"
+        style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; fill: rgb(34%, 41%, 45%); stroke: none"
+        transform="translate(0,774) scale(1,-1)"
+      >
+        Controlled comparison: identical solver and inputs; only the seed-sign correction changes.
+      </text>
+      <text
+        x="30"
+        y="348"
+        style="font-family: Arial, Helvetica, sans-serif; font-weight: 700; font-size: 17px; fill: rgb(71%, 27%, 21%); stroke: none"
+        transform="translate(0,696) scale(1,-1)"
+      >
+        Before: unsigned seed
+      </text>
+      <text
+        x="30"
+        y="324"
+        style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; fill: rgb(34%, 41%, 45%); stroke: none"
+        transform="translate(0,648) scale(1,-1)"
+      >
+        s0 = +100 km
+      </text>
+      <path d="M 62,235 L 266,235 Z" style="stroke: rgb(34%, 41%, 45%); stroke-linecap: butt; stroke-width: 1.5; stroke-dasharray: 5, 4" />
+      <path d="M 266,235 L 436,235 Z" style="stroke: rgb(14%, 39%, 54%); stroke-linecap: butt; stroke-width: 3" />
+      <path d="M 436,235 L 478.5,235 Z" style="stroke: rgb(34%, 41%, 45%); stroke-linecap: butt; stroke-width: 1.5; stroke-dasharray: 5, 4" />
+      <polygon
+        points="351 235, 342 239, 342 231"
+        style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(14%, 39%, 54%); fill-rule: evenodd"
+      />
+      <rect
+        x="263.0"
+        y="232"
+        width="6.0"
+        height="6"
+        style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%, 16%, 22%); fill-rule: evenodd"
+      />
+      <text
+        x="246.992"
+        y="196"
+        style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; fill: rgb(8%, 16%, 22%); stroke: none"
+        transform="translate(0,392) scale(1,-1)"
+      >
+        A: start
+      </text>
+      <text
+        x="254.0815"
+        y="179"
+        style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; fill: rgb(34%, 41%, 45%); stroke: none"
+        transform="translate(0,358) scale(1,-1)"
+      >
+        0 km
+      </text>
+      <rect
+        x="433.0"
+        y="232"
+        width="6.0"
+        height="6"
+        style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%, 16%, 22%); fill-rule: evenodd"
+      />
+      <text
+        x="418.654"
+        y="196"
+        style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; fill: rgb(8%, 16%, 22%); stroke: none"
+        transform="translate(0,392) scale(1,-1)"
+      >
+        B: end
+      </text>
+      <text
+        x="417.9655"
+        y="179"
+        style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; fill: rgb(34%, 41%, 45%); stroke: none"
+        transform="translate(0,358) scale(1,-1)"
+      >
+        100 km
+      </text>
+      <polygon
+        points="96 223, 90 213, 102 213"
+        style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(14%, 39%, 54%); fill-rule: evenodd"
+      />
+      <text
+        x="89.0"
+        y="180.0"
+        style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; fill: rgb(14%, 39%, 54%); stroke: none"
+        transform="translate(0,360) scale(1,-1)"
+      >
+        Aircraft
+      </text>
+      <text
+        x="89.0"
+        y="164.0"
+        style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; fill: rgb(34%, 41%, 45%); stroke: none"
+        transform="translate(0,328) scale(1,-1)"
+      >
+        10 km right of route
+      </text>
+      <path d="M 96,218 L 436.314499,235 Z" style="stroke: rgb(71%, 27%, 21%); stroke-linecap: butt; stroke-width: 2; stroke-dasharray: 4, 3" />
+      <circle
+        cx="96.0"
+        cy="235"
+        r="5"
+        style="stroke: rgb(70%, 52%, 14%); stroke-linecap: butt; stroke-width: 2; fill: rgb(100%, 100%, 100%); fill-rule: evenodd"
+      />
+      <text
+        x="84.0"
+        y="263"
+        style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; fill: rgb(70%, 52%, 14%); stroke: none"
+        transform="translate(0,526) scale(1,-1)"
+      >
+        P0 / true foot
+      </text>
+      <text
+        x="84.0"
+        y="247"
+        style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; fill: rgb(34%, 41%, 45%); stroke: none"
+        transform="translate(0,494) scale(1,-1)"
+      >
+        -100 km
+      </text>
+      <path d="M 431.314499,230 L 441.314499,240 Z" style="stroke: rgb(71%, 27%, 21%); stroke-linecap: butt; stroke-width: 2" />
+      <path d="M 431.314499,240 L 441.314499,230 Z" style="stroke: rgb(71%, 27%, 21%); stroke-linecap: butt; stroke-width: 2" />
+      <path d="M 436.314499,240 L 401.314499,271 Z" style="stroke: rgb(71%, 27%, 21%); stroke-linecap: butt; stroke-width: 1" />
+      <text
+        x="330.97449940013894"
+        y="292"
+        style="font-family: Arial, Helvetica, sans-serif; font-weight: 700; font-size: 12px; fill: rgb(71%, 27%, 21%); stroke: none"
+        transform="translate(0,584) scale(1,-1)"
+      >
+        Returned Q
+      </text>
+      <text
+        x="326.6064994001389"
+        y="275"
+        style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; fill: rgb(71%, 27%, 21%); stroke: none"
+        transform="translate(0,550) scale(1,-1)"
+      >
+        +100.185 km
+      </text>
+      <text
+        x="30"
+        y="111"
+        style="font-family: Arial, Helvetica, sans-serif; font-weight: 700; font-size: 14px; fill: rgb(71%, 27%, 21%); stroke: none"
+        transform="translate(0,222) scale(1,-1)"
+      >
+        Returned cross-track distance: -200.435 km
+      </text>
+      <text
+        x="30"
+        y="88"
+        style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; fill: rgb(34%, 41%, 45%); stroke: none"
+        transform="translate(0,176) scale(1,-1)"
+      >
+        Projection position error: 200.185 km
+      </text>
+      <text
+        x="30"
+        y="66"
+        style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; fill: rgb(34%, 41%, 45%); stroke: none"
+        transform="translate(0,132) scale(1,-1)"
+      >
+        20 iterations; stopped on interval width
+      </text>
+      <text
+        x="580"
+        y="348"
+        style="font-family: Arial, Helvetica, sans-serif; font-weight: 700; font-size: 17px; fill: rgb(12%, 46%, 40%); stroke: none"
+        transform="translate(0,696) scale(1,-1)"
+      >
+        After: signed seed
+      </text>
+      <text
+        x="580"
+        y="324"
+        style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; fill: rgb(34%, 41%, 45%); stroke: none"
+        transform="translate(0,648) scale(1,-1)"
+      >
+        s0 = -100 km
+      </text>
+      <path d="M 612,235 L 816,235 Z" style="stroke: rgb(34%, 41%, 45%); stroke-linecap: butt; stroke-width: 1.5; stroke-dasharray: 5, 4" />
+      <path d="M 816,235 L 986,235 Z" style="stroke: rgb(14%, 39%, 54%); stroke-linecap: butt; stroke-width: 3" />
+      <path d="M 986,235 L 1028.5,235 Z" style="stroke: rgb(34%, 41%, 45%); stroke-linecap: butt; stroke-width: 1.5; stroke-dasharray: 5, 4" />
+      <polygon
+        points="901 235, 892 239, 892 231"
+        style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(14%, 39%, 54%); fill-rule: evenodd"
+      />
+      <rect
+        x="813.0"
+        y="232"
+        width="6.0"
+        height="6"
+        style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%, 16%, 22%); fill-rule: evenodd"
+      />
+      <text
+        x="796.992"
+        y="196"
+        style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; fill: rgb(8%, 16%, 22%); stroke: none"
+        transform="translate(0,392) scale(1,-1)"
+      >
+        A: start
+      </text>
+      <text
+        x="804.0815"
+        y="179"
+        style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; fill: rgb(34%, 41%, 45%); stroke: none"
+        transform="translate(0,358) scale(1,-1)"
+      >
+        0 km
+      </text>
+      <rect
+        x="983.0"
+        y="232"
+        width="6.0"
+        height="6"
+        style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%, 16%, 22%); fill-rule: evenodd"
+      />
+      <text
+        x="968.654"
+        y="196"
+        style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; fill: rgb(8%, 16%, 22%); stroke: none"
+        transform="translate(0,392) scale(1,-1)"
+      >
+        B: end
+      </text>
+      <text
+        x="967.9655"
+        y="179"
+        style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; fill: rgb(34%, 41%, 45%); stroke: none"
+        transform="translate(0,358) scale(1,-1)"
+      >
+        100 km
+      </text>
+      <polygon
+        points="646 223, 640 213, 652 213"
+        style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(14%, 39%, 54%); fill-rule: evenodd"
+      />
+      <text
+        x="639.0"
+        y="180.0"
+        style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; fill: rgb(14%, 39%, 54%); stroke: none"
+        transform="translate(0,360) scale(1,-1)"
+      >
+        Aircraft
+      </text>
+      <text
+        x="639.0"
+        y="164.0"
+        style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; fill: rgb(34%, 41%, 45%); stroke: none"
+        transform="translate(0,328) scale(1,-1)"
+      >
+        10 km right of route
+      </text>
+      <path d="M 646,218 L 646,235 Z" style="stroke: rgb(12%, 46%, 40%); stroke-linecap: butt; stroke-width: 2" />
+      <circle
+        cx="646.0"
+        cy="235"
+        r="5"
+        style="stroke: rgb(100%, 100%, 100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(12%, 46%, 40%); fill-rule: evenodd"
+      />
+      <text
+        x="634.0"
+        y="263"
+        style="font-family: Arial, Helvetica, sans-serif; font-weight: 700; font-size: 12px; fill: rgb(12%, 46%, 40%); stroke: none"
+        transform="translate(0,526) scale(1,-1)"
+      >
+        P0 / Q / true foot
+      </text>
+      <text
+        x="634.0"
+        y="247"
+        style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; fill: rgb(34%, 41%, 45%); stroke: none"
+        transform="translate(0,494) scale(1,-1)"
+      >
+        -100 km
+      </text>
+      <text
+        x="580"
+        y="111"
+        style="font-family: Arial, Helvetica, sans-serif; font-weight: 700; font-size: 14px; fill: rgb(12%, 46%, 40%); stroke: none"
+        transform="translate(0,222) scale(1,-1)"
+      >
+        Returned cross-track distance: -10.000 km
+      </text>
+      <text
+        x="580"
+        y="88"
+        style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; fill: rgb(34%, 41%, 45%); stroke: none"
+        transform="translate(0,176) scale(1,-1)"
+      >
+        Projection agrees with the reference foot
+      </text>
+      <text
+        x="580"
+        y="66"
+        style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; fill: rgb(34%, 41%, 45%); stroke: none"
+        transform="translate(0,132) scale(1,-1)"
+      >
+        Accepted at the initial residual check
+      </text>
+      <path d="M 558,65 L 558,350 Z" style="stroke: rgb(89%, 91%, 92%); stroke-linecap: butt; stroke-width: 1" />
+      <text
+        x="30"
+        y="25"
+        style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; fill: rgb(34%, 41%, 45%); stroke: none"
+        transform="translate(0,50) scale(1,-1)"
+      >
+        Same scale in both panels. B and the incorrect Q are only 185 m apart and nearly overlap.
+      </text>
+    </g>
+  </g>
+</svg>
