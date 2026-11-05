@@ -9,6 +9,7 @@ related_posts: false
 _styles: |
   .geodesic-article .standfirst { font-size: 1.2rem; line-height: 1.6; color: var(--global-text-color-light); }
   .geodesic-article h2 { margin-top: 2.3rem; }
+  .geodesic-article strong { font-weight: 700; }
   .geodesic-article .equation { text-align: center; font-size: 1.25rem; margin: 1.5rem 0; }
   .geodesic-article figure { margin: 2rem 0; }
   .geodesic-article figure a { display: block; overflow-x: auto; }
