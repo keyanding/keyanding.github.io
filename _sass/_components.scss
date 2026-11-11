@@ -259,3 +259,34 @@ ul.task-list input[type="checkbox"] {
 .d2h-diff-table {
   position: relative;
 }
+.upcoming-post {
+  margin: 0.5rem 0 1rem;
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--global-divider-color);
+  border-left: 3px solid var(--global-theme-color);
+  border-radius: 0.5rem;
+  background: var(--global-card-bg-color);
+  font-size: 0.9rem;
+  line-height: 1.45;
+
+  .upcoming-post-title {
+    margin: 0 0 0.3rem;
+    color: var(--global-theme-color);
+    font-weight: 600;
+  }
+
+  ul {
+    margin: 0;
+    padding-left: 1.15rem;
+  }
+
+  li + li {
+    margin-top: 0.2rem;
+  }
+
+  .upcoming-post-note {
+    margin: 0.35rem 0 0;
+    color: var(--global-text-color-light);
+    font-size: 0.85rem;
+  }
+}

@@ -41,6 +41,17 @@ layout: default
       <h2>
         <a href="{{ '/articles/' | relative_url }}" style="color: inherit">latest posts</a>
       </h2>
+      <aside class="upcoming-post" aria-label="Upcoming writing">
+        <p class="upcoming-post-title">Up next</p>
+        <ul>
+          <li><strong>Geodesics:</strong> the mathematics behind the shortest path.</li>
+          <li><strong>Engineering in practice:</strong> real-world constraints and details beyond the equations.</li>
+          <li>
+            <strong>Systems engineering &amp; system design:</strong> practical approaches to requirements, interfaces, trade-offs, and verification.
+          </li>
+        </ul>
+        <p class="upcoming-post-note">Stay tuned.</p>
+      </aside>
       {% include latest_posts.liquid %}
     {% endif %}
 
